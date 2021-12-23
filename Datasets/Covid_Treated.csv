@@ -1,0 +1,211 @@
+Edad,Sexo,Provincia,Distrito,Sintomas,Tiempo.enfermo,Mes.comienzo,Neumonía,Hospital,Convivientes,C.C.Sintomas,C.C.Covid,PCR,Serologia,Covid
+19,Masculino,Madrid,Ciudad Lineal,Fatiga,1,Abril,Ninguno,Ninguno,5,4,2,Ninguno,Ninguno,No
+19,Masculino,Madrid,Hortaleza,Diarrea,0,Ninguno,No,No,3,0,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+53,Masculino,Madrid,Ciudad Lineal,Tos seca,2,Marzo,No,Si,4,4,1,Positivo,Ninguno,Si
+18,Masculino,Toledo,Toledo,Ninguno,0,Ninguno,Ninguno,Ninguno,3,1,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Rivas-Vaciamadrid,Fiebre,1,Marzo,Ninguno,Ninguno,3,3,0,Ninguno,Ninguno,No
+20,Masculino,Madrid,Ciudad lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+21,Femenino,Madrid,Majadahonda,Fatiga,1,Marzo,Ninguno,Ninguno,5,1,1,Ninguno,Ninguno,No
+55,Masculino,Salamanca,Salamanca ,Tos seca,3,Marzo,Si,No,2,0,0,Ninguno,Ninguno,No
+24,Femenino,Toledo,Toledo,Ninguno,0,Ninguno,Ninguno,Ninguno,3,1,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Rivas-Vaciamadrid,Tos seca,3.5,Marzo,No,No,5,0,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,5,2,0,Ninguno,Ninguno,No
+24,Femenino,Toledo ,Belvis de la Jara ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+19,Femenino,Toledo,Belvis de la Jara,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+19,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+20,Masculino,Toledo,Belvis de la Jara,Ninguno,0,Ninguno,No,No,3,0,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Usera,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+20,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+19,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+21,Femenino,Toledo,Belvis de la Jara,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+20,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+18,Femenino,madrid,Madrid ,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Negativo,Negativo,No
+20,Femenino,Madrid,Chamartin,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Negativo,No
+19,Femenino,Madrid,Tetuan,Alteraciones en el gusto,2,Marzo,Ninguno,Ninguno,3,2,0,Ninguno,Ninguno,No
+53,Femenino,Madrid,Ciudad Lineal,Alteraciones en el olor,1,Marzo,No,No,4,2,1,Negativo,Positivo,Si
+20,Femenino,Madrid,Pozuelo de Alarcon,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+22,Femenino,Salamanca,Salamanca,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+20,Masculino,Las Palmas,Arucas,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+20,Femenino,Madrid,Carabanchel,Ninguno,0,Ninguno,Ninguno,Ninguno,3,1,0,Ninguno,Ninguno,No
+19,Masculino,Cadiz,Chiclana de la Frontera,Fiebre,1,Marzo,Ninguno,Ninguno,25,5,0,Ninguno,Ninguno,No
+57,Femenino,Madrid,Rivas-Vaciamadrid,Diarrea,1,Marzo,No,No,4,2,0,Ninguno,Ninguno,No
+43,Femenino,Madrid ,Las rozas,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+52,Femenino,Madrid,Salamanca,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+39,Masculino,Madrid,Boadilla del Monte,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Negativo,Negativo,Si
+53,Femenino,Ourense,32003,Fatiga,1,Marzo,No,No,2,0,0,Positivo,Ninguno,Si
+57,Masculino,Madrid,Las Rozas,Ninguno,0,Ninguno,Ninguno,Ninguno,4,2,1,Positivo,Ninguno,No
+53,Femenino,Madrid ,Centro,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Negativo,No
+43,Femenino,Madrid ,Pozuelo  de Alarcon,Tos seca,2,Abril,Ninguno,No,5,2,0,Positivo,Negativo,Si
+55,Femenino,Madrid,Chamberi,Alteraciones en el gusto,2,Marzo,No,No,5,3,1,Negativo,Positivo,Si
+52,Femenino,Madrid,Galapagar,Fatiga,1,Febrero,Ninguno,No,4,1,0,Ninguno,Ninguno,No
+52,Femenino,Madrid,San Blas,Alteraciones en el olor,2,Mayo,No,No,5,1,1,Positivo,Ninguno,Si
+61,Femenino,Madrid,Moncloa-Aravaca,Diarrea,1,Marzo,Ninguno,No,1,0,0,Ninguno,Ninguno,No
+52,Femenino,Madrid,San Lorenzo de El Escorial,Fatiga,1,Febrero,Ninguno,Ninguno,4,4,0,Ninguno,Negativo,No
+53,Femenino,Madrid,Tres Cantos,Fiebre,3.5,Febrero,No,No,4,1,0,Ninguno,Ninguno,No
+51,Masculino,Madrid,San Blas,Tos seca,2,Mayo,Si,No,5,2,2,Positivo,Ninguno,Si
+28,Femenino,Madrid,Aluche,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Negativo,Negativo,No
+52,Femenino,Madrid,Chamartin,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid,Chamberi,Tos seca,2,Marzo,No,Ninguno,3,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid ,Chamberi,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+58,Femenino,Madrid,Rivas-Vaciamadrid,Fiebre,1,Enero,No,No,2,0,0,Ninguno,Ninguno,No
+28,Masculino,Madrid,Hortaleza,Ninguno,0,Ninguno,Ninguno,Ninguno,0,0,0,Ninguno,Negativo,No
+43,Masculino,Madrid,Chamberi,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+47,Masculino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Negativo,No
+50,Femenino,Madrid,Salamanca,Ninguno,0,Ninguno,Ninguno,Ninguno,0,0,0,Negativo,Negativo,Si
+58,Femenino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+58,Femenino,Toledo,Toledo,Tos seca,3,Marzo,No,No,3,0,0,Ninguno,Ninguno,No
+56,Masculino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Rivas-Vaciamadrid ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+26,Femenino,Madrid,Chamartin,Ninguno,0,Ninguno,Ninguno,Ninguno,1,1,1,Ninguno,Positivo,Si
+59,Femenino,Madrid,Getafe,Fatiga,3,Marzo,Si,Si,3,0,0,Positivo,Positivo,Si
+57,Femenino,Madrid,Chamartin,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+49,Masculino,Madrid,Rivas-Vaciamadrid ,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+60,Masculino,Madrid,Torrejón de Ardoz,Tos seca,1,Marzo,Ninguno,No,1,0,0,Ninguno,Ninguno,No
+52,Femenino,Madrid ,Centro,Ninguno,0,Ninguno,Ninguno,Ninguno,52,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid,Rivas-Vaciamadrid,Tos seca,3.5,Marzo,Ninguno,Ninguno,3,1,0,Ninguno,Ninguno,No
+58,Masculino,Madrid,Aluche,Fatiga,3,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+56,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+55,Femenino,Madrid,Chamartin,Ninguno,0,Ninguno,Ninguno,Ninguno,5,1,1,Ninguno,Ninguno,No
+26,Femenino,A Coruña,Ferrol,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+78,Femenino,Madrid,Chamartin,Ninguno,0,Ninguno,Ninguno,Ninguno,1,1,1,Ninguno,Positivo,Si
+58,Femenino,Madrid,Puente de Vallecas,Fiebre,2,Marzo,Si,No,1,1,0,Ninguno,Ninguno,No
+55,Masculino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+58,Femenino,Madrid,Centro,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+58,Masculino,Salamanca,37005,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+52,Femenino,Madrid,Majadahonda,Fatiga,1,Abril,Ninguno,No,4,1,0,Ninguno,Ninguno,No
+62,Femenino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+38,Femenino,Madrid,Rivas-Vaciamadrid,Tos seca,1,Enero,No,No,3,3,0,Ninguno,Ninguno,No
+37,Masculino,Santa Cruz de Tenerife,38001,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Negativo,Negativo,Si
+52,Femenino,Madrid ,Pozuelo de Alarcon,Ninguno,0,Ninguno,Ninguno,Ninguno,0,0,0,Ninguno,Negativo,No
+26,Femenino,Madrid,Usera,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Negativo,Negativo,Si
+26,Femenino,Madrid,Pozuelo de alarcon,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+27,Masculino,Madrid,Chamberi,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+21,Masculino,Madrid ,Retiro ,Diarrea,1,Abril,Ninguno,No,4,0,0,Negativo,Negativo,No
+55,Masculino,Madrid,Leganes,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+56,Femenino,Madrid ,Mostoles ,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Negativo,Si
+47,Masculino,Madrid,Latina,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid,Centro,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+53,Femenino,Madrid,Moncloa-Aravaca,Ninguno,0,Ninguno,Ninguno,Ninguno,6,0,0,Negativo,Negativo,Si
+58,Masculino,Madrid,Tetuan,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+52,Femenino,Madrid,Arganda del Rey,Ninguno,0,Ninguno,Ninguno,Ninguno,10,0,0,Ninguno,Ninguno,No
+57,Femenino,Toledo,Ventas Retamosa ,Diarrea,1,Abril,Ninguno,No,3,0,0,Ninguno,Negativo,Si
+58,Masculino,Madrid,Alcala de Henares,Ninguno,0,Ninguno,No,No,2,0,0,Ninguno,Ninguno,No
+59,Masculino,Madrid,Coslada,Diarrea,2,Marzo,Si,No,3,2,0,Ninguno,Ninguno,No
+70,Femenino,Madrid,Salamanca,Ninguno,0,Ninguno,Ninguno,Ninguno,0,0,0,Ninguno,Ninguno,No
+60,Masculino,Madrid,Fuencarral-El Pardo,Fiebre,3,Marzo,No,No,1,1,1,Ninguno,Ninguno,No
+54,Masculino,Cadiz,Puerto Real,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+47,Masculino,Madrid,Moratalaz,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+41,Masculino,Sevilla,Olivares ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+49,Masculino,Madrid,Pozuelo del Rey,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+65,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+51,Femenino,Madrid,La Cabrera,Ninguno,0,Ninguno,Ninguno,Ninguno,4,1,0,Ninguno,Ninguno,No
+20,Femenino,Madrid,Guadarrama,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+49,Masculino,Madrid,Hortaleza,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+22,Femenino,Madrid,Puente de Vallecas,Tos seca,3,Febrero,Ninguno,Ninguno,2,2,0,Ninguno,Ninguno,No
+19,Masculino,Madrid,Retiro,Diarrea,1,Abril,No,No,4,0,0,Ninguno,Ninguno,No
+70,Masculino,Madrid,Tres Cantos,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid,Retiro,Ninguno,0,Mayo,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+17,Masculino,Madrid,Retiro,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Negativo,No
+57,Femenino,Madrid,Moncloa-Aravaca,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+46,Femenino,Madrid ,Retiro ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+42,Masculino,Valencia ,46007,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+20,Femenino,Madrid,Madrid ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+58,Femenino,Madrid,Tres Cantos,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+47,Femenino,Madrid ,Carabanchel,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+19,Femenino,A Coruña,A Coruña ,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+20,Femenino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,3,1,0,Ninguno,Ninguno,No
+59,Femenino,Madrid,Majadahonda,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Negativo,Si
+17,Femenino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,3,1,1,Ninguno,Ninguno,No
+50,Femenino,Madrid,Getafe,Tos seca,2,Marzo,No,No,3,1,1,Ninguno,Ninguno,No
+20,Masculino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+57,Masculino,Madrid,Fuencarral-El Pardo,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+19,Femenino,Madrid,Getafe,Alteraciones en el olor,3.5,Marzo,Ninguno,No,3,4,1,Ninguno,Ninguno,No
+55,Masculino,Madrid,Majadahonda,Fiebre,3,Marzo,Si,Si,5,2,1,Positivo,Positivo,Si
+49,Masculino,Madrid,Moncloa-Aravaca,Ninguno,0,Ninguno,Ninguno,Ninguno,1,1,0,Ninguno,Ninguno,No
+55,Femenino,Madrid,Majadahonda,Ninguno,0,Ninguno,Ninguno,Ninguno,6,2,1,Positivo,Positivo,No
+59,Femenino,Madrid,Tetuan,Tos seca,1,Marzo,Ninguno,Ninguno,1,2,0,Ninguno,Ninguno,No
+23,Masculino,Madrid,San Blas ,Ninguno,0,Ninguno,Ninguno,Ninguno,3,2,1,Negativo,Ninguno,No
+51,Femenino,Madrid,Las Rozas,Alteraciones en el olor,3.5,Marzo,Si,Si,4,2,1,Positivo,Ninguno,Si
+32,Masculino,Salamanca,Salamanca,Tos seca,1,Enero,Ninguno,Ninguno,3,3,0,Ninguno,Ninguno,No
+58,Femenino,Madrid,Rivas-Vaciamadrid,Fatiga,3.5,Marzo,Ninguno,Ninguno,3,4,0,Ninguno,Ninguno,No
+50,Femenino,Madrid,Coslada,Tos seca,3.5,Febrero,No,No,3,1,0,Negativo,Ninguno,No
+57,Masculino,Toledo,45600,Tos seca,3.5,Enero,No,No,2,2,0,Ninguno,Ninguno,No
+69,Femenino,Madrid ,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+48,Femenino,Madrid,San Blas,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+59,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+53,Femenino,Madrid,Rivas-Vaciamadrid,Otros,1,Enero,Ninguno,No,3,0,0,Ninguno,Ninguno,No
+51,Femenino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+47,Masculino,Madrid,Rivas-Vaciamadrid,Fatiga,1,Marzo,No,No,4,1,1,Ninguno,Ninguno,No
+54,Femenino,Madrid ,Rivas-Vaciamadrid,Fatiga,2,Marzo,Ninguno,Ninguno,3,3,0,Ninguno,Positivo,No
+58,Masculino,Madrid ,Carabanchel,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+56,Femenino,Madrid,Rivas-Vaciamadrid ,Ninguno,2,Marzo,Ninguno,No,4,0,0,Negativo,Ninguno,No
+57,Masculino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Negativo,No
+54,Masculino,Madrid,Moratalaz,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+47,Femenino,Madrid ,Rivas-Vaciamadrid ,Alteraciones en el olor,2,Marzo,No,No,3,1,1,Positivo,Ninguno,Si
+21,Femenino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+58,Femenino,Madrid,Getafe,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+51,Femenino,Madrid,Rivas-Vaciamadrid ,Fiebre,2,Marzo,Ninguno,Ninguno,30,0,0,Ninguno,Ninguno,No
+45,Masculino,Valencia,Rocafort,Ninguno,0,Ninguno,Ninguno,No,3,0,0,Ninguno,Ninguno,No
+65,Femenino,Madrid,Rivas-Vaciamadrid ,Fiebre,1,Marzo,No,No,1,2,0,Ninguno,Ninguno,No
+58,Femenino,Madrid,Latina,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+70,Femenino,Madrid,Rivas-Vaciamadrid ,Ninguno,0,Ninguno,Ninguno,Ninguno,0,0,0,Ninguno,Ninguno,No
+83,Masculino,A Coruña,Ferrol,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+53,Masculino,Madrid,Pozuelo,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Negativo,Si
+47,Femenino,Santiago de Chile,Las Condes,Otros,3.5,Marzo,Ninguno,Ninguno,4,1,0,Ninguno,Ninguno,No
+32,Femenino,Madrid ,Aluche,Tos seca,3.5,Marzo,No,No,2,3,1,Negativo,Positivo,Si
+53,Femenino,Madrid ,Pozuelo de Alarcon,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+28,Femenino,Asturias,Oviedo,Ninguno,0,Ninguno,Ninguno,Ninguno,2,2,0,Ninguno,Ninguno,No
+24,Masculino,Asturias ,La Fresneda (Siero) ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,1,0,Negativo,Negativo,No
+48,Femenino,Madrid ,Rivas-Vaciamadrid ,Ninguno,0,Ninguno,Ninguno,Ninguno,6,0,0,Negativo,Ninguno,No
+59,Femenino,Madrid,Tres Cantos,Ninguno,0,Ninguno,Ninguno,No,3,1,0,Ninguno,Ninguno,No
+52,Femenino,Madrid,Tres Cantos,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+57,Femenino,Toledo,Alcaudete de la Jara 45662,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+54,Masculino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+61,Masculino,A Coruña,15403,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+56,Masculino,Segovia,40400,Ninguno,0,Ninguno,No,Ninguno,3,0,0,Ninguno,Ninguno,No
+57,Femenino,Toledo,4160,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+30,Femenino,Madrid,Mirasierra,Ninguno,0,Ninguno,Ninguno,Ninguno,1,1,0,Ninguno,Ninguno,No
+22,Masculino,Madrid,Centro,Tos seca,1,Mayo,Ninguno,No,3,0,0,Ninguno,Ninguno,No
+56,Femenino,Madrid,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+59,Femenino,Madrid,Villar Del Olmo,Ninguno,0,Ninguno,Ninguno,Ninguno,28521,6,0,Ninguno,Ninguno,No
+63,Masculino,Toledo ,Toledo ,Ninguno,0,Ninguno,Ninguno,Ninguno,4,1,0,Ninguno,Ninguno,No
+60,Femenino,Salamanca,Villamayor ,Ninguno,0,Ninguno,Ninguno,Ninguno,1,1,0,Ninguno,Ninguno,No
+54,Masculino,Madrid,Pozuelo de Alarcon,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+57,Femenino,Asturias ,Oviedo ,Tos seca,2,Marzo,Ninguno,No,3,1,0,Negativo,Negativo,No
+20,Masculino,Madrid,Rivas-Vaciamadrid,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+53,Masculino,Madrid,Tres Cantos,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+20,Femenino,Asturias,Oviedo,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+56,Femenino,Toledo,Belvis de la Jara,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+50,Masculino,Salamanca,37003,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+58,Masculino,Madrid,Tres Cantos,Fatiga,1,Marzo,No,No,5,1,0,Ninguno,Ninguno,No
+45,Femenino,Madrid ,Mostoles ,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+52,Femenino,Salamanca,37003,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+47,Masculino,Madrid ,Mostoles ,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+59,Masculino,Madrid,San Lorenzo de El Escorial,Ninguno,0,Ninguno,Ninguno,Ninguno,5,0,0,Ninguno,Ninguno,No
+54,Masculino,Madrid ,Tres Cantos,Fiebre,1,Marzo,Ninguno,No,4,2,2,Ninguno,Ninguno,No
+68,Femenino,Madrid ,Chamberi,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+43,Femenino,Madrid,Barajas,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+57,Femenino,Madrid,Leganes,Ninguno,0,Ninguno,Ninguno,No,3,0,0,Ninguno,Ninguno,No
+44,Masculino,Madrid,Villaviciosa de Odon,Ninguno,1,Marzo,No,No,4,4,0,Ninguno,Ninguno,No
+68,Masculino,Madrid,Pozuelo de Alarcon,Fiebre,1,Enero,No,No,2,0,0,Ninguno,Ninguno,No
+50,Masculino,Madrid,Leganes,Ninguno,0,Ninguno,Ninguno,Ninguno,1,0,0,Ninguno,Ninguno,No
+47,Femenino,Toledo,45593,Ninguno,0,Ninguno,Ninguno,Ninguno,3,1,0,Ninguno,Ninguno,No
+51,Masculino,Toledo,45002,Ninguno,0,Ninguno,Ninguno,Ninguno,4,0,0,Ninguno,Ninguno,No
+62,Masculino,Toledo,45005,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
+59,Masculino,Ciudad Real,Torreon,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+62,Masculino,Toledo,45111,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+25,Femenino,Madrid,Salamanca,Fiebre,1,Marzo,Ninguno,No,1,0,0,Negativo,Positivo,Si
+23,Femenino,Madrid,Las Rozas,Ninguno,0,Ninguno,Ninguno,Ninguno,4,2,1,Ninguno,Ninguno,No
+54,Femenino,Madrid ,San Sebastian de los Reyes,Otros,2,Marzo,Ninguno,No,3,4,1,Ninguno,Positivo,Si
+22,Masculino,Madrid,Moraleja de Enmedio,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+52,Masculino,Salamanca ,37006,Tos seca,3,Abril,Ninguno,No,3,0,0,Ninguno,Ninguno,Si
+20,Masculino,Madrid,Retiro,Ninguno,0,Ninguno,Ninguno,Ninguno,4,1,0,Ninguno,Ninguno,No
+53,Masculino,Madrid ,Ciudad Lineal,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Negativo,Ninguno,No
+20,Masculino,Madrid,Santa Eugenia,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Ninguno,No
+55,Femenino,Madrid,Hortaleza,Ninguno,0,Ninguno,Ninguno,Ninguno,3,0,0,Ninguno,Negativo,No
+16,Masculino,Madrid,Hortaleza,Fiebre,1,Enero,Ninguno,Ninguno,2,3,0,Ninguno,Ninguno,No
+23,Masculino,Madrid,Hortaleza,Ninguno,0,Ninguno,Ninguno,Ninguno,2,0,0,Ninguno,Ninguno,No
