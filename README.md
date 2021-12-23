@@ -7,3 +7,5 @@ detailed in the next section.
 For solving this problem, we will implement a supervised learning approach creating
 different types of detectors and evaluating them using ROC curves (AUROC
 evaluation).
+
+Since it is a theoretical approach you will find all our research that we have performmed in the "Report.pdf".
